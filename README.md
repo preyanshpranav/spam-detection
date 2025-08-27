@@ -46,17 +46,11 @@ data/enron_spam_data.csv
 
 ## Usage
 1. Train the Model
-```bash
-python src/train.py
-```
 - Trains the Naive Bayes model on the dataset.
 - Saves the trained model (spam_classifier.pkl) and vectorizer (vectorizer.pkl) in models/.
 - Generates evaluation metrics (metrics.txt) and confusion matrix (confusion_matrix.png) in results/.
 
 2. Predict New Messages
-```bash
-python src/predict.py
-```
 - Prompts for a message input and outputs whether it is Spam or Ham.
 
 ## Results
