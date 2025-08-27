@@ -12,8 +12,7 @@ The goal of this project is to showcase a complete workflow of a text classifica
 - After downloading or cloning the repository, unzip the dataset. You should have a CSV file, e.g., `enron_spam_data.csv`.  
 
 **Instructions to use the dataset:**
-1. Ensure the CSV is located at: `data/enron_spam_data.csv`.  
-2. The scripts in `src/` rely on this CSV file for training and prediction.  
+- The code rely on this CSV file for training and prediction. 
 
 **Original source:** [Kaggle - Enron Email Dataset](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset)  
 
