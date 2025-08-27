@@ -20,11 +20,11 @@ The goal of this project is to showcase a complete workflow of a text classifica
 
 ## Project Structure
 spam-detection/
-│── README.md with instructions
-│── .ipynb file
-│── requirements.txt # Python dependencies
-│── README.md
-│── dataset.csv
+|--- README.md with instructions
+|--- .ipynb file
+|--- requirements.txt # Python dependencies
+|--- README.md
+|--- dataset.csv
 
 ---
 
