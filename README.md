@@ -9,7 +9,7 @@ The goal of this project is to showcase a complete workflow of a text classifica
 ## Dataset
 - The dataset used is the **Enron Email Dataset**.  
 - **Location in repo:** `enron_spam_data.zip`  
-- After downloading or cloning the repository, unzip the dataset inside the `data/` folder. You should have a CSV file, e.g., `enron_spam_data.csv`.  
+- After downloading or cloning the repository, unzip the dataset. You should have a CSV file, e.g., `enron_spam_data.csv`.  
 
 **Instructions to use the dataset:**
 1. Ensure the CSV is located at: `data/enron_spam_data.csv`.  
