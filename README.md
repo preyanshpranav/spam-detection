@@ -66,3 +66,7 @@ data/enron_spam_data.csv
 
 ## Contributing
 Feel free to fork the project, add improvements, or experiment with other models.
+
+##License
+This project is open source and available under the MIT License.
+
