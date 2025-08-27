@@ -26,16 +26,13 @@ spam-detection/
 │── README.md
 │── dataset.csv
 
-yaml
-Copy code
-
 ---
 
 ## Installation
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/spam-detection.git
+git clone https://github.com/preyanshpranav/spam-detection.git
 cd spam-detection
 ```
 
