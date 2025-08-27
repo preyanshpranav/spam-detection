@@ -28,6 +28,20 @@ spam-detection/
 
 ---
 
+## Technologies Used
+- Programming Language: Python 3
+- Libraries & Frameworks:
+- pandas – data manipulation and cleaning
+- numpy – numerical computations
+- scikit-learn – machine learning algorithms (Naive Bayes, train-test split, metrics)
+- re – regular expressions for text preprocessing
+- tkinter – GUI for message prediction
+- Text Processing: TF-IDF Vectorization
+- Model: Multinomial Naive Bayes for classification
+- Dataset: Enron Email Dataset
+
+---
+
 ## Installation
 1. Clone the repository:
 
